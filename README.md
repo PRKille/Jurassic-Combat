@@ -15,7 +15,7 @@ Download the .zip file and extract all files into directory of your choice OR cl
 
 1. Clone the repository:
     ```
-    git clone https://github.com/jamisoncozart/Jurassic-Combat
+    git clone https://github.com/PRKille/Jurassic-Combat
     ```
 2. Compile and Run code:
     ```
